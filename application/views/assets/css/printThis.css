@@ -1,0 +1,9 @@
+table.table-bordered {
+  border: 2px solid black !important;
+}
+table.table-bordered > thead > tr > th {
+  border: 2px solid black !important;
+}
+table.table-bordered > tbody > tr > td {
+  border: 2px solid black !important;
+}

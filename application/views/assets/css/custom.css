@@ -1,0 +1,26 @@
+@media print {
+  @page {
+    size: A4;
+    margin: 10;
+  }
+}
+
+@media (min-width: 576px) {
+  .mb-sm-5 {
+    margin-bottom: 50px !important;
+  }
+}
+
+.TableCenter {
+  width: 400px;
+  vertical-align: middle;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+  background: none;
+  color: blue !important;
+}
+
+.boldId {
+  font-weight: bold;
+}
