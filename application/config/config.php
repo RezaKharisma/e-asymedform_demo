@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost:8080/e-asymedform_demo/';
+$config['base_url'] = 'https://rezakharisma.github.io/e-asymedform_demo/';
 
 /*
 |--------------------------------------------------------------------------
